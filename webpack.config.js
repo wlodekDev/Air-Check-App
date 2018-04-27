@@ -1,7 +1,7 @@
 const path = require("path");
 
 module.exports = {
-    mode: 'development',
+    mode: 'production',
     entry: "./src/js/app.js",
     output: {  path: path.join(__dirname, "./dist/"), filename : 'out.js' },
     watch: true,
