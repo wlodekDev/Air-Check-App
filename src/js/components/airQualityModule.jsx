@@ -175,7 +175,7 @@ class AirQualityModule extends React.Component{
                 opacityInfo1: 1,
                 opacityData1: 0,
                 divInfoWidth1: '17rem',
-                divInfoHeight1: '16rem',
+                divInfoHeight1: '17rem',
                 fontSize1: '.85rem',
                 divDataWidth1: '0',
 
@@ -235,8 +235,8 @@ class AirQualityModule extends React.Component{
                 opacityInfo2: 1,
                 opacityData12: 0,
                 divInfoWidth2: '17rem',
-                divInfoHeight2: '16rem',
-                fontSize2: '.8rem',
+                divInfoHeight2: '18rem',
+                fontSize2: '.85rem',
                 divDataWidth2: '0',
 
                 hideDiv1: 'hidden',
@@ -295,8 +295,8 @@ class AirQualityModule extends React.Component{
                 opacityInfo3: 1,
                 opacityData13: 0,
                 divInfoWidth3: '17rem',
-                divInfoHeight3: '16rem',
-                fontSize3: '.8rem',
+                divInfoHeight3: '18rem',
+                fontSize3: '.85rem',
                 divDataWidth3: '0',
 
                 hideDiv1: 'hidden',
@@ -355,8 +355,8 @@ class AirQualityModule extends React.Component{
                 opacityInfo4: 1,
                 opacityData14: 0,
                 divInfoWidth4: '17rem',
-                divInfoHeight4: '16rem',
-                fontSize4: '.8rem',
+                divInfoHeight4: '18rem',
+                fontSize4: '.85rem',
                 divDataWidth4: '0',
 
                 hideDiv1: 'hidden',
@@ -415,8 +415,8 @@ class AirQualityModule extends React.Component{
                 opacityInfo5: 1,
                 opacityData15: 0,
                 divInfoWidth5: '17rem',
-                divInfoHeight5: '16rem',
-                fontSize5: '.8rem',
+                divInfoHeight5: '18rem',
+                fontSize5: '.85rem',
                 divDataWidth5: '0',
 
                 hideDiv1: 'hidden',
